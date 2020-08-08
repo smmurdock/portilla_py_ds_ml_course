@@ -6,3 +6,6 @@
 - Lists
 - Dictionaries
 - Booleans
+- Tuples
+- Sets
+- Comparison Operators
