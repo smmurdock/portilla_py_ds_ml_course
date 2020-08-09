@@ -9,3 +9,9 @@
 - Tuples
 - Sets
 - Comparison Operators
+
+### Day 2: Review Python Basics
+- Functions
+- Map, Filter, Reduce
+- Lambda Expressions
+- Tuple Unpacking
